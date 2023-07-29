@@ -7,6 +7,7 @@
 
 1. Visibility: starts with default, protected, private or public fields and methods? Encapsulation says 'private'.
 2. Correct this code (tip: shapeType field....)
+3. Static Polymorphism (Compile-time) or Dynamic Polymorphism (Run-time)?
 
 ```java
 public enum ShapeTypeEnum {
