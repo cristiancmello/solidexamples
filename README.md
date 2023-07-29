@@ -5,6 +5,9 @@
 
 #### No compliance
 
+1. Visibility: starts with default, protected, private or public fields and methods? Encapsulation says 'private'.
+2. Correct this code (tip: shapeType field....)
+
 ```java
 public enum ShapeTypeEnum {
   SQUARE,
